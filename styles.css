@@ -78,6 +78,7 @@ margin-right: 2%;
     padding-bottom: 10%;
     padding-right: 15%;
     font-size: 14px;
+    border-radius: 4%;
 }
 #Center2 {
     background-color: #F9FAF8;
@@ -85,6 +86,7 @@ display: flex;
 justify-content: space-around;
 padding-left: 5%;
 padding-right: 5%;
+padding-bottom: 7%;
 }
 .info {
     background-color: #F9FAF8; 
@@ -98,3 +100,55 @@ img {
     padding-bottom: 35px;
     padding-left: 30%;
 }
+#Center3 {
+    background-color: #E5E7EB;
+    padding: 15%;
+}
+#Center3Message {
+    font-size: 36px;
+    font-style: italic;
+}
+#Center3Message2 {
+    font-weight: 800;
+    font-size: 18px;
+    padding-left: 75%;
+    padding-top: 4%;
+}
+#Background4 {
+    background-color:#F9FAF8;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#Center4 {
+    background-color:#5194ff;
+    color:#F9FAF8;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 5%;
+}
+#Center4Message {
+    font-size: 22px;
+    font-weight: 500;
+}
+#Center4Message2 {
+    font-size: 15px;
+    padding-right: 50%;
+}
+#SignUp2 {
+    color:#F9FAF8;
+    background-color: #3882F6;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 25%;
+    border-color:#3882F6;
+    padding: 12px 20px;
+    margin-left: 75%;
+}
+#SignUp2:hover {
+    background-color: #3174df;
+}
+#SignUp2:active {
+    background-color:#104394;
