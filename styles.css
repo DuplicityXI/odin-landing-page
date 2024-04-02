@@ -1,0 +1,22 @@
+#Header {
+background-color: #1F2937; 
+display: flex;
+justify-content: space-between;
+}
+#HeaderLogo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+#HeaderLinks {
+    font-size: 18px;
+    color: #F9FAF8;
+}
+a:link {
+    color: #F9FAF8;
+}
+a:visited {
+    color: cornflowerblue;
+}
+a:hover {
+    color: slategrey;
+}
