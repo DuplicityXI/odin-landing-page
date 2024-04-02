@@ -152,3 +152,14 @@ img {
 }
 #SignUp2:active {
     background-color:#104394;
+}
+#Footer {
+    background-color: #1F2937;
+    padding: 5%;
+
+}
+#Copyright {
+    color:#F9FAF8;
+    font-size: 14px;
+    padding-left: 40%;
+}
