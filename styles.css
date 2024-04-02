@@ -81,9 +81,20 @@ margin-right: 2%;
 }
 #Center2 {
     background-color: #F9FAF8;
-    padding-top: 15%;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-bottom: 15%;
-
+display: flex;
+justify-content: space-around;
+padding-left: 5%;
+padding-right: 5%;
+}
+.info {
+    background-color: #F9FAF8; 
+}
+img {
+    width: 200px;
+    height: 125px;
+}
+#Center2Header {
+    padding-top: 10px;
+    padding-bottom: 35px;
+    padding-left: 30%;
 }
